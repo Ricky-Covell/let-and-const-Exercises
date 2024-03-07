@@ -1,0 +1,24 @@
+//PART 1
+
+1: 
+	const PI = 3.14;
+	//using const would prevent PI from being reassigned
+
+//QUIZ
+
+1:
+	var can be redeclared while let cannot
+	var can access a hoisted variable while let is limited to block scope
+
+
+2: 	
+	var can be reassigned and redeclared while const cannot
+	var can access a hoisted variable while const is limited to block scope
+
+
+3:
+	let can be reassigned while const cannot
+
+
+4:
+	hoisting is when a declaration is moved to the top of its scope when the code is 	compiled
